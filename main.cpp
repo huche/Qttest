@@ -3,6 +3,7 @@
 
 int main(int argc, char *argv[])
 {
+    //这是我的git初次提交
     QApplication a(argc, argv);
     MainWindow w;
     w.setWindowTitle("QT窗口测试标题");
